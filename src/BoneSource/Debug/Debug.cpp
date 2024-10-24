@@ -5,11 +5,14 @@
 
 using namespace std;
 
-string Debug::logDirectory = "BoneSource/saved/logs/";
+string Debug::logDirectory = "../BoneSource/saved/logs/";
 
 
 
 void Debug::log(string message, Debug::logType type) {
+
+	cout << "haha\n";
+
 	ofstream log;
 
 	string filename = Time::getDate() + ".log";

@@ -2,6 +2,10 @@ E:\C++\BoneSource\glad.c;E:\C++\BoneSource\BoneSource\x64\Debug\glad.obj
 E:\C++\BoneSource\src\BoneSource\Core\Core.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\Core.obj
 E:\C++\BoneSource\src\BoneSource\Debug\Debug.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\Debug.obj
 E:\C++\BoneSource\src\BoneSource\File\File.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\File.obj
+E:\C++\BoneSource\src\BoneSource\Shaders\ElementBuffer.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\ElementBuffer.obj
+E:\C++\BoneSource\src\BoneSource\Shaders\Shader.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\Shader.obj
+E:\C++\BoneSource\src\BoneSource\Shaders\VertexArray.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\VertexArray.obj
+E:\C++\BoneSource\src\BoneSource\Shaders\VertexBuffer.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\VertexBuffer.obj
 E:\C++\BoneSource\src\BoneSource\Time\Time.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\Time.obj
 E:\C++\BoneSource\src\BoneSource\Window\Window.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\Window.obj
 E:\C++\BoneSource\src\Main.cpp;E:\C++\BoneSource\BoneSource\x64\Debug\Main.obj

@@ -3,8 +3,15 @@
 #include <GLFW/glfw3.h>
 #include "time.h"
 
+using namespace std;
+
 class Core {
 public:
+
+	// Version of the engine (semantic versioning)
+	static string version;
+
+
 	// Has the engine been initialised?
 	static bool hasInit;
 

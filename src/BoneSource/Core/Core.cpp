@@ -3,6 +3,9 @@
 #include "Core.h"
 #include "../Debug/Debug.h"
 
+using namespace std;
+
+string Core::version = "0.0.0";
 bool Core::hasInit = false;
 
 int Core::init() {

@@ -12,7 +12,7 @@ int Window::createWindow(const char* name, int width, int height) {
 	}
 
 	if (window != nullptr) {
-		// debug.log fuck off it already exists.
+		// debug.log go away it already exists.
 	}
 
 	window = glfwCreateWindow(width, height, name, NULL, NULL);

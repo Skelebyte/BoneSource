@@ -1,0 +1,10 @@
+^E:\C++\BONESOURCE\BUILD\CMAKEFILES\2AEC0E023390800972B3A26DAEE7A0A8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/C++/BoneSource -BE:/C++/BoneSource/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/C++/BoneSource/build/BoneSource.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

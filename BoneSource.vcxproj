@@ -34,6 +34,9 @@
     <ClInclude Include="src\BoneSource\Time\Time.h" />
     <ClInclude Include="src\BoneSource\Window\Window.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="src\BoneSource\Time\CMakeLists.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
